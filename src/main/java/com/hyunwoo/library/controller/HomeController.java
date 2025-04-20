@@ -1,24 +1,21 @@
 package com.hyunwoo.library.controller;
 
+import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
 
 
 @Controller
+@Slf4j
 public class HomeController {
 
-    @GetMapping(value = "/")
+    @RequestMapping(value = "/", method = RequestMethod.GET)
     public String home() {
 
-        System.out.println("Home Page");
+        log.info("Home page");
          return "index";
-    }
-
-    @GetMapping(value = "/libraryInfo")
-    public String libraryInfo() {
-
-        System.out.println("libraryInfo");
-         return "libraryInfo";
     }
 
     @GetMapping(value = "/search")

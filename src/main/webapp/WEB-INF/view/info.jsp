@@ -9,16 +9,16 @@
 <html>
 <head>
     <title>Title</title>
-    <link rel="stylesheet" href="css/sub.css" type="text/css"/>
-    <link rel="stylesheet" href="css/jquery-ui.min.css" type="text/css"/>
-    <link rel="stylesheet" href="css/board.css" type="text/css"/>
-    <link rel="stylesheet" href="css/button.css" type="text/css"/>
-    <link rel="stylesheet" href="css/common.css" type="text/css"/>
-    <link rel="stylesheet" href="css/contents.css" type="text/css"/>
-    <link rel="stylesheet" href="css/default.css" type="text/css"/>
-    <link rel="stylesheet" href="css/header.css" type="text/css"/>
-    <link rel="stylesheet" href="css/layout.css" type="text/css"/>
-    <link rel="stylesheet" href="css/search.css" type="text/css"/>
+    <link rel="stylesheet" href="../css/sub.css" type="text/css"/>
+    <link rel="stylesheet" href="../css/jquery-ui.min.css" type="text/css"/>
+    <link rel="stylesheet" href="../css/board.css" type="text/css"/>
+    <link rel="stylesheet" href="../css/button.css" type="text/css"/>
+    <link rel="stylesheet" href="../css/common.css" type="text/css"/>
+    <link rel="stylesheet" href="../css/contents.css" type="text/css"/>
+    <link rel="stylesheet" href="../css/default.css" type="text/css"/>
+    <link rel="stylesheet" href="../css/header.css" type="text/css"/>
+    <link rel="stylesheet" href="../css/layout.css" type="text/css"/>
+    <link rel="stylesheet" href="../css/search.css" type="text/css"/>
     <script  src="http://code.jquery.com/jquery-latest.min.js"></script>
 </head>
 <body>

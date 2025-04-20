@@ -243,7 +243,7 @@
         <ul id="gnb" class="clearfix" style="overflow: hidden;">
 
 <%--            <li id="gnb1" class=""><a href="/sglib/menu/10580/contents/40117/contents.do" rel="noopener noreferrer">도서관소개</a>--%>
-            <li id="gnb1" class=""><a href="/libraryInfo" rel="noopener noreferrer">도서관소개</a>
+            <li id="gnb1" class=""><a href="/libraryInfo/info" rel="noopener noreferrer">도서관소개</a>
                 <ul style="display: none;">
                     <li id="gnb1_1"><a href="/sglib/menu/10580/contents/40117/contents.do"
                                        rel="noopener noreferrer">연혁</a></li>
